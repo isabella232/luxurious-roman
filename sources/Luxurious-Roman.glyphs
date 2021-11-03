@@ -100,12 +100,6 @@ alignmentZones = (
 );
 ascender = 1000;
 capHeight = 650;
-customParameters = (
-{
-name = typoAscender;
-value = 1000;
-}
-);
 descender = -200;
 guideLines = (
 {
@@ -41359,6 +41353,15 @@ layerId = "24D0D9E8-BA2F-4B13-8DB9-88CA40D3CAFC";
 width = 150;
 }
 );
+}
+);
+instances = (
+{
+interpolationWeight = 400;
+instanceInterpolations = {
+"24D0D9E8-BA2F-4B13-8DB9-88CA40D3CAFC" = 1;
+};
+name = Regular;
 }
 );
 manufacturer = "Robert E. Leuschke";
