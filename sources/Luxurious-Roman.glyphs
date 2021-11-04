@@ -131,11 +131,11 @@ capHeight = 665;
 customParameters = (
 {
 name = typoAscender;
-value = 850;
+value = 950;
 },
 {
 name = typoDescender;
-value = -350;
+value = -250;
 },
 {
 name = typoLineGap;
@@ -143,11 +143,11 @@ value = 0;
 },
 {
 name = hheaAscender;
-value = 850;
+value = 950;
 },
 {
 name = hheaDescender;
-value = -350;
+value = -250;
 },
 {
 name = hheaLineGap;
@@ -12419,7 +12419,7 @@ unicode = 0062;
 {
 color = 9;
 glyphname = c;
-lastChange = "2021-11-04 00:36:23 +0000";
+lastChange = "2021-11-04 01:19:24 +0000";
 layers = (
 {
 background = {
@@ -12541,11 +12541,8 @@ nodes = (
 "361 481 OFFCURVE",
 "322 489 OFFCURVE",
 "276 489 CURVE SMOOTH",
-"263 489 OFFCURVE",
-"250 488 OFFCURVE",
-"237 487 CURVE SMOOTH",
-"150 480 OFFCURVE",
-"89 447 OFFCURVE",
+"184 489 OFFCURVE",
+"98 464 OFFCURVE",
 "56 387 CURVE SMOOTH",
 "26 336 OFFCURVE",
 "12 245 OFFCURVE",
@@ -54654,5 +54651,5 @@ tH = "32";
 };
 };
 versionMajor = 1;
-versionMinor = 4;
+versionMinor = 5;
 }
