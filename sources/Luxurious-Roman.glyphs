@@ -128,6 +128,48 @@ alignmentZones = (
 );
 ascender = 660;
 capHeight = 665;
+customParameters = (
+{
+name = typoAscender;
+value = 850;
+},
+{
+name = typoDescender;
+value = -350;
+},
+{
+name = typoLineGap;
+value = 0;
+},
+{
+name = hheaAscender;
+value = 850;
+},
+{
+name = hheaDescender;
+value = -350;
+},
+{
+name = hheaLineGap;
+value = 0;
+},
+{
+name = winAscent;
+value = 934;
+},
+{
+name = winDescent;
+value = 515;
+},
+{
+name = strikeoutPosition;
+value = 250;
+},
+{
+name = strikeoutSize;
+value = 50;
+}
+);
 descender = -170;
 guideLines = (
 {
@@ -54612,5 +54654,5 @@ tH = "32";
 };
 };
 versionMajor = 1;
-versionMinor = 3;
+versionMinor = 4;
 }
