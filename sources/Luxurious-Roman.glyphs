@@ -2,7 +2,9 @@
 .appVersion = "1352";
 DisplayStrings = (
 abcdefghijklmnopqrstuvwxyz,
-ABCDEFGHIJKLMNOPQRSTUVWXYZ
+ABCDEFGHIJKLMNOPQRSTUVWXYZ,
+m,
+HOt
 );
 copyright = "Copyright 2015-2021 The Luxurious Project Authors (https://github.com/googlefonts/luxurious-roman)";
 customParameters = (
@@ -125,11 +127,21 @@ locked = 1;
 position = "{143, 921}";
 }
 );
+horizontalStems = (
+32,
+40,
+58
+);
 id = "24D0D9E8-BA2F-4B13-8DB9-88CA40D3CAFC";
 userData = {
 GSOffsetHorizontal = 4;
 GSOffsetVertical = 4;
 };
+verticalStems = (
+70,
+80,
+95
+);
 weightValue = 400;
 xHeight = 480;
 }
@@ -16998,7 +17010,7 @@ unicode = 00F1;
 },
 {
 glyphname = o;
-lastChange = "2021-11-03 23:19:00 +0000";
+lastChange = "2021-11-03 23:59:48 +0000";
 layers = (
 {
 background = {
@@ -17082,7 +17094,7 @@ nodes = (
 "290 17 CURVE SMOOTH",
 "323 44 OFFCURVE",
 "348 65 OFFCURVE",
-"365 78 CURVE",
+"365 78 CURVE SMOOTH",
 "410 121 OFFCURVE",
 "434 183 OFFCURVE",
 "434 271 CURVE SMOOTH",
@@ -41407,6 +41419,21 @@ name = Regular;
 manufacturer = "Robert E. Leuschke";
 manufacturerURL = www.typesetit.com;
 unitsPerEm = 1000;
+userData = {
+GSDimensionPlugin.Dimensions = {
+"24D0D9E8-BA2F-4B13-8DB9-88CA40D3CAFC" = {
+HH = "38";
+HV = "80";
+OH = "40";
+OV = "95";
+nV = "70";
+nd = "50";
+oH = "57";
+oV = "78";
+tH = "32";
+};
+};
+};
 versionMajor = 1;
 versionMinor = 3;
 }
