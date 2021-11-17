@@ -1,6 +1,6 @@
 # Luxurious Roman
 
-This typeface was designed to accompany the Luxurious Script. Luxurious Roman is a semi-hand lettered font with inconsistent serifs and a subtle bouncy look to create that 'imperfect' hand calligraphed feel.
+Luxurious Roman is a semi-hand lettered font with inconsistent serifs and a subtle bouncy look to create that 'imperfect' hand calligraphed feel.
 
 ![Sample Image](Documentation/image1.png)
 
